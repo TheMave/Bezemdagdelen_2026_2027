@@ -29,7 +29,8 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 
 ## De bezemdagdelen
 - Maandag 9 november, 14:00, PL101-2.505
-- Maandag 16 november, 14:00, (locatie volgt nog)
+- Maandag 16 november, 14:00, PL99-2.136
+- Maandag 23 november, (lokaal volgt nog)
 
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.

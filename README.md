@@ -32,5 +32,6 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Maandag 16 november, 14:00, PL99-2.136
 - Maandag 23 november, 13:30, HL15-7.044 (NB: start half uur later, vandaag!)
 - Maandag 30 november, 13:30, HL15-7.044
+- *Woensdag* 9 december, 13:00, HL15-5.050
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
